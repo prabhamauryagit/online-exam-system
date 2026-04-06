@@ -1,23 +1,61 @@
-# online-exam-system
-This is my web development project built using PHP and MySQL
-
-# Project Name
-Online-Exam-System
+# 📝 Online Exam System
 
 ## 📌 Description
-This is a web-based application built using ...
+This is a web-based Online Exam System developed using PHP and MySQL.  
+It allows students to register, login, and take exams, while the admin can manage questions and users.
+
+---
 
 ## 🚀 Features
-- User Login/Register
-- Dashboard
-- Admin Panel
+- 👤 User Registration & Login
+- 🧑‍💼 Admin Panel
+- 📝 Online Exam Interface
+- 📊 Result Calculation
+- 🔐 Secure Authentication
+
+---
 
 ## 🛠️ Tech Stack
-- Java / PHP
+- PHP
 - MySQL
-- Bootstrap
+- HTML, CSS, JavaScript
+- Bootstrap 5
+
+---
+
+## 📂 Project Structure
+/project-folder
+│── index.php
+│── login.php
+│── register.php
+│── dashboard.php
+│── exam.php
+│── result.php
+│── config.php
+│── /admin
+│ ├── admin.php
+│ ├── add_question.php
+│ └── manage_users.php
+│── /assets
+│ ├── css/
+│ ├── js/
+
+
+---
 
 ## ▶️ How to Run
-1. Clone the repo
-2. Import into IDE
-3. Run project
+1. Clone the repository
+2. Import database in MySQL
+3. Update database credentials in `config.php`
+4. Run on localhost (XAMPP/WAMP)
+
+---
+
+## 📷 Screenshots
+(Add screenshots here)
+
+---
+
+## 🙌 Author
+NIELIT Student | Web Developer
+
